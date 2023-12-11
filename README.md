@@ -1,5 +1,5 @@
 # TheTutorials
-Contains tutorials for coding related topics and more.
+Contains tutorials for coding-related topics and more.
 
 ## Getting Started With Hugging Face Models
 - How to deploy and host your own models in Hugging Face Spaces and to build demos using Gradio
